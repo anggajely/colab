@@ -12,4 +12,4 @@ if (data == 7) {
     console.log("data")
 } else {
     console.log("bukan data")
-}
+}   
